@@ -7,7 +7,8 @@
   Sketch out states, add prototypes, and clarify questions quickly.
   
 ## Information Architecture
-* [Treejack](https://www.optimalworkshop.com/treejack)
+* [Treejack](https://www.optimalworkshop.com/treejack) -
+  Information architecture validation software
   
 # Design Systems
 * [Lucid](https://lucid.style/)  —

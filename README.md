@@ -6,6 +6,9 @@
 * [Sketch.systems](https://sketch.systems/)  —
   Sketch out states, add prototypes, and clarify questions quickly.
   
+## Information Architecture
+* [Treejack](https://www.optimalworkshop.com/treejack)
+  
 # Design Systems
 * [Lucid](https://lucid.style/)  —
   Create beautiful, clear design systems.

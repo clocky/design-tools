@@ -28,5 +28,9 @@
 ## Contrast ratio
 * [Color & Contrast Picker](http://kevingutowski.github.io/color.html)
 
+# Windows
+* [Snoop](https://github.com/cplotts/snoopwpf) -
+  Browse the visual tree of a running WPF application (without the need for a debugger)
+
 # Credits
 Collated from internal team chats at Microsoft's D3 Studio; thanks to [@misolori](//github.com/misolori), [@piyurox](//github.com/piyurox) and others.

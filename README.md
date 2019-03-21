@@ -35,4 +35,4 @@
   Browse the visual tree of a running WPF application (without the need for a debugger)
 
 # Credits
-Collated from internal team chats at Microsoft's D3 Studio; thanks to [@misolori](//github.com/misolori), [@piyurox](//github.com/piyurox) and others.
+Collated from internal team chats at Microsoft's D3 Studio; thanks to [@misolori](//github.com/misolori), [@piyurox](//github.com/piyurox), [@vancura](//github.com/vancura) and others.
